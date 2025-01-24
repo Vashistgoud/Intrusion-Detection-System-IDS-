@@ -7,5 +7,7 @@ An Intrusion Detection System (IDS) is a security solution designed to analyze n
 To set up the required libraries, use the `pip` package manager as follows:
 
 pip install opencv-python
+
 pip install cvzone
+
 pip install twilio
